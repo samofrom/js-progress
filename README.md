@@ -7,6 +7,8 @@
 This is a pure js modern lightweight  library for displaying the process of tasks and their progress
 executions
 
+[Interactive example](https://samofrom.github.io/js-progress/)
+
 ### Quick start
 
 ```javascript
